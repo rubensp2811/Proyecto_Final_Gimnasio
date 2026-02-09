@@ -14,7 +14,7 @@ Este proyecto implementa una arquitectura en capas (Controller-Service-Repositor
 
 ## 🗃️ Modelo Entidad-Relación
 
-![Diagrama ER](docs/MER.png)
+![Diagrama ER](Proyecto_Final_Gimnasio/docs/MER.png)
 
 ### Entidades Principales
 
